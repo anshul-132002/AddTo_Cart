@@ -19,7 +19,7 @@
 
 </p>
 
-✈️ [Follow Jeremy Akeze](https://github.com/anshul-132002)
+✈️ [Follow Anshul Shrivas](https://github.com/anshul-132002)
 
 This simple shopping cart prototype shows how React with Typescript, React hooks, react Context and Styled Components can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
 
@@ -55,13 +55,8 @@ npm start
 /* To run the tests */
 npm run test
 
-```
 
-### Copyright and license
 
-The MIT License (MIT). Please see License File for more information.
-
-<br/>
 <br/>
 
 <p align="center"><img src="http://www.jeffersonribeiro.com/assets/img/apple-icon-180x180.png" width="35" height="35"/></p>
